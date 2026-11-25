@@ -46,7 +46,7 @@ Prices were checked on **Nov 15, 2026** (1x4x12: Nov 25) at **Lowe's S. Bel Air*
 | 2 | 2-in x 6-in x 12-ft #2 Fir Kiln-Dried | $15.13 | $30.26 |
 | 2 | 2-in x 4-in x 96-in Kiln-Dried #2 Premium *(headboard top + center beam)* | $4.75 | $9.50 |
 | 6 | RELIABILT 1-in x 4-in x 10-ft #2 & Better Whitewood Board *(2 cuts each: 5 boards → 10 headboard slats, 1 board → 3 back supports)* | $12.84 | $77.04 |
-| 7 | RELIABILT 1-in x 4-in x 12-ft #2 & Better Whitewood Board *(2 cuts each → 14 bed slats; 12' leaves room for kerfs and squaring the ends)* | $15.35 | $107.45 |
+| 7 | RELIABILT 1-in x 4-in x 12-ft #2 & Better Whitewood Board *(2 cuts each → 14 bed slats; 12' leaves room for kerfs and squaring the ends)* **— bought in Trip 1** | $15.35 | $107.45 |
 | 1 | RELIABILT 1-in x 2-in x 8-ft Clear S4S Radiata Pine *(slat spacers, same 1-1/2" width as the 2x2; Aisle 49, Bay 5)* | $7.98 | $7.98 |
 | 2 | 2-in x 2-in x 8-ft Whitewood Furring Strip (Item #4513) | $2.98 | $5.96 |
 | | | **Lumber subtotal** | **$264.43** |
@@ -89,19 +89,22 @@ Prices were checked on **Nov 15, 2026** (1x4x12: Nov 25) at **Lowe's S. Bel Air*
 | MD sales tax (6%) | $23.31 |
 | **Estimated total** | **~$412** |
 
-### Temporary Floor Setup — Lowe's (optional, not used in the build)
+### Shopping Trip 1 — Buy Now (temporary floor setup)
 
-To use the mattress before the frame is built, lay the 14 bed slats on 3 flat 2x4 runners on the floor.
+Lets you use the mattress before the frame is built: the 14 bed slats lie on 3 flat 2x4 runners on the floor.
 
-| Qty | Item | Each | Total |
-|---:|---|---:|---:|
-| 3 | 2-in x 4-in x 96-in Kiln-Dried #2 Premium *(runners, cut to ~79")* | $4.75 | $14.25 |
-| | | **With 6% tax** | **~$15** |
+| Qty | Item | Use | Each | Total |
+|---:|---|---|---:|---:|
+| 7 | RELIABILT 1-in x 4-in x 12-ft #2 & Better Whitewood Board | **Kept for the finished build:** 14 bed slats | $15.35 | $107.45 |
+| 3 | 2-in x 4-in x 96-in Kiln-Dried #2 Premium | **Temporary only:** floor runners, not used in the build | $4.75 | $14.25 |
+| | | | **Subtotal** | **$121.70** |
+| | | | **With 6% tax** | **~$129** |
 
-- **Cut** each 2x4 to about 79" so it doesn't stick out past the 80" mattress.
-- **Lay them flat** (more stable than on edge), running head to foot: one centered, and one about 3" in from each slat end.
+- **Cut the slats now** to the final 59-7/8" (2 per board), so they're ready for the frame.
+- **Cut the runners** to about 79" so they don't stick out past the 80" mattress.
+- **Lay the runners flat** (more stable than on edge), running head to foot: one centered, and one about 3" in from each slat end.
 - **Space the slats** about 2-5/16" apart, the same as the frame, with no screws or felt.
-- **Store the slats flat** with weight on them until the build so they don't bow.
+- **When you build:** skip the 7 x 1x4x12 in the lumber list above (already bought). Everything else is still needed, about **$281 before tax** (~$298 with tax).
 
 Add Rockler shipping. Rockler shows free shipping on orders over $99 with code FREE99, and this order is under that.
 
@@ -412,6 +415,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0033 | 2026-11-25 | Temporary setup turned into "Shopping Trip 1" list (bed slat boards + temp runners) with what carries into the build; remaining build cost noted |
 | 2026.11.0032 | 2026-11-25 | Bed slat boards changed to 7 x 1x4x12 ($15.35) for cutting room; totals ~$412; added optional temporary floor setup (3 x 2x4 runners) |
 | 2026.11.0031 | 2026-11-25 | GRK #8 x 1-1/4" use note fixed: brackets and bed slat ends (spacers and headboard slats are glued + nailed) |
 | 2026.11.0030 | 2026-11-25 | Supply list: 1x4x10 note now spells out boards vs. pieces (10 headboard slats, 3 back supports, 14 bed slats from 13 boards) |
