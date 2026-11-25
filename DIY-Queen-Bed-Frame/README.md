@@ -45,7 +45,7 @@ Prices were checked on **Nov 15, 2026** at **Lowe's S. Bel Air** and **Home Depo
 | 2 | 4-in x 4-in x 8-ft #2 Premium Douglas Fir (green, untreated) | $13.12 | $26.24 |
 | 2 | 2-in x 6-in x 12-ft #2 Fir Kiln-Dried | $15.13 | $30.26 |
 | 2 | 2-in x 4-in x 96-in Kiln-Dried #2 Premium *(headboard top + center beam)* | $4.75 | $9.50 |
-| 13 | RELIABILT 1-in x 4-in x 10-ft #2 & Better Whitewood Board *(6 headboard + 7 bed slats)* | $12.84 | $166.92 |
+| 13 | RELIABILT 1-in x 4-in x 10-ft #2 & Better Whitewood Board *(13 boards, 2 cuts each: 5 boards → 10 headboard slats, 1 board → 3 back supports, 7 boards → 14 bed slats)* | $12.84 | $166.92 |
 | 1 | RELIABILT 1-in x 2-in x 8-ft Clear S4S Radiata Pine *(slat spacers, same 1-1/2" width as the 2x2; Aisle 49, Bay 5)* | $7.98 | $7.98 |
 | 2 | 2-in x 2-in x 8-ft Whitewood Furring Strip (Item #4513) | $2.98 | $5.96 |
 | | | **Lumber subtotal** | **$246.86** |
@@ -397,6 +397,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0030 | 2026-11-25 | Supply list: 1x4x10 note now spells out boards vs. pieces (10 headboard slats, 3 back supports, 14 bed slats from 13 boards) |
 | 2026.11.0029 | 2026-11-19 | Frame lengthened 1" for mattress room: side rails 6'7", 2x2s 6'4", ~86" overall; spacing and diagrams updated |
 | 2026.11.0028 | 2026-11-16 | Priced the 1x2 spacer board ($7.98, RELIABILT clear radiata pine); totals updated |
 | 2026.11.0027 | 2026-11-16 | Slat spacers switched from 1x3 to 1x2 (flush with the 2x2); 1x2 price TBD; 3D view updated |
