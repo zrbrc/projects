@@ -147,7 +147,7 @@ What actually changes how long this lasts and how it looks is **picking boards a
 | 2x6x12 (#1) | 1 @ 6'7" (side rail) + 1 @ 4'8" (headboard bottom rail) | ~9" |
 | 2x6x12 (#2) | 1 @ 6'7" (side rail) + 1 @ 4'8" (footboard rail) | ~9" |
 | 2x4x96 (#1) | 1 @ 4'8" (headboard top) | ~3'4" |
-| 2x4x96 (#2) | 1 **center beam — cut to fit** (~6'9"–6'11", minus fastener thickness) | ~1'+ |
+| 2x4x96 (#2) | 1 **center beam — cut to fit** (~6'9": ~81-1/2" between the end rails, minus the fasteners) | ~1'3" |
 | 1x4x10 (boards 1–5) | 2 @ 4'8" each → 10 headboard slats | ~8" each |
 | 1x4x10 (board 6) | 3 @ 2'11-1/2" (headboard back supports) | ~1'1" |
 | 2x2x8 (x2) | 1 @ 6'4" each (slat supports) | ~1'8" each |
@@ -224,7 +224,7 @@ Glue only joints that stay together for good. **Never glue a joint that has to c
 4. Optional: apply finish now.
 
 ### Step 2 — Install the 5" surface-mounted brackets (4 sets)
-1. Butt a side rail (2x6) against a post, with the top edges flush and the end touching the post.
+1. Butt a side rail (2x6) against a post, with the end touching the post, the outer faces flush, and the rail top at 14" (flush with the footboard post tops; level with the headboard bottom rail).
 2. Hold a bracket set in its locked position. Its 5" length centers on the 5-1/2" rail face. Mark its edges and screw holes.
 3. Pre-drill, then screw the post half to the 4x4 and the rail half to the 2x6, using #8 screws. **No glue**, since this is the knock-down joint.
 4. Repeat for all four corners, checking height and alignment each time. The set is made in left and right versions, so match each one to its corner.
@@ -232,8 +232,12 @@ Glue only joints that stay together for good. **Never glue a joint that has to c
 ### Step 3 — Build the headboard
 1. Drill all pocket holes first.
 2. Glue and nail the 10 slats (1x4 @ 4'8") to the 3 back supports (1x4 @ 2'11-1/2"). Spread glue on each support where it crosses a slat, then drive **2 finish nails per slat at each support from the back**, through the support into the slat. Use **1-1/4" nails at most**: support plus slat is only 1-1/2" thick, so anything longer can poke through the show face. Angle the nails slightly, and test one on scrap first. Put one support flush at each end and center the third (2'4" from each end), as shown in the back-view diagram. Leave about a 1/32" gap between slats.
-3. Glue and attach the panel to the two 4'5" posts. **Set the whole panel (2x4 top, slats, 2x6 bottom rail) 1/2" back from the front face of the posts**, and keep the 2x4 top flush with the tops of the posts (no post sticking up). A 1/2" scrap spacer clamped against the post front makes the offset easy to hold while you drive the pocket screws.
-4. Add the 2x4 top and the 2x6 bottom rail with 2-1/2" pocket screws and glue: **2 pocket holes per end on the 2x4, and 3 per end on the 2x6**. Keep all the pocket holes on the back (wall-side) face. See "Pocket holes on the 2x6 bottom rails" below.
+3. Glue and attach the 2x4 top and the 2x6 bottom rail to the two 4'5" posts with 2-1/2" pocket screws: **2 pocket holes per end on the 2x4, and 3 per end on the 2x6**. Keep all the pocket holes on the back (wall-side) face. See "Pocket holes on the 2x6 bottom rails" below.
+   - **Set the whole panel (2x4 top, slats, 2x6 bottom rail) 1/2" back from the front face of the posts.** A 1/2" scrap spacer clamped against the post front makes the offset easy to hold while you drive the pocket screws.
+   - Keep the 2x4 top flush with the tops of the posts (no post sticking up).
+   - **The bottom rail must be at the same height as the footboard rail (top at 14").**
+4. Set the slat panel into the opening from the back, with the slat fronts flush with the 2x4 and 2x6 fronts (1/2" back from the posts). Glue and drive 1-1/4" pocket screws through the back supports into the posts, the 2x4 top and the 2x6 rail.
+5. Check for square: both diagonals should measure the same.
 
 #### Pocket holes on the 2x6 bottom rails (headboard and footboard)
 - **Positions:** 3 holes per end, centered **1", 2-3/4" and 4-1/2" down from the top edge** (1-3/4" apart). See diagrams 4 and 5.
@@ -259,9 +263,6 @@ Glue only joints that stay together for good. **Never glue a joint that has to c
 **Optional heavier-duty alternative:** a **Kreg Jig HD** with **#14 HD pocket screws** (about $10 for 30). With those, 2–3 per end gives similar strength and less risk of splitting.
 
 Sources: [Kreg Jig HD manual (placement)](https://www.manualsdir.com/manuals/776192/kreg-jig-hd.html?page=6), [Kreg Jig HD guide (IRC)](https://www.manualsdir.com/manuals/776192/kreg-jig-hd.html?page=4), [Kreg K3 manual: 2-hole spacing](https://www.manualslib.com/manual/845739/Kreg-K3.html?page=10), [Kreg: pocket-hole spacing tips](https://learn.kregtool.com/?p=21543), [Woodgears joint strength test](https://woodgears.ca/joint_strength/index.html), [WWGOA: is glue necessary?](https://www.wwgoa.com/video/hy-pocket-hole-joints-is-glue-necessary)
-   - **The bottom rail must be at the same height as the footboard rail (top at 14").**
-5. Check for square: both diagonals should measure the same.
-
 ### Step 4 — Build the footboard
 1. Attach the 4'8" 2x6 between the two 1'2" posts with 2-1/2" pocket screws and glue, using **3 pocket holes per end**, placed as in "Pocket holes on the 2x6 bottom rails" (Step 3). Put them on the inside (mattress-side) face, where the mattress hides them. See diagram 5.
    - The end grain of the rail soaks up glue, so wipe a thin first coat on it, let it get tacky (about 5 minutes), then glue up for real.
@@ -294,7 +295,7 @@ Sources: [Kreg Jig HD manual (placement)](https://www.manualsdir.com/manuals/776
 
 ### Step 9 — Slats
 1. **Lay out:** set the 14 slats (1x4 @ 59-7/8") across the 2x2s and the center beam. They should sit about 1/4" below the top of the side rails.
-2. **Space them:** measure the inside length between the end rails (L). The gap is **(L − 49") ÷ 13**, which is about 2-5/16" for a 79" length. Put the first and last slats tight against the end rails.
+2. **Space them:** measure the inside length between the posts (L), the same as the side rail length. The gap is **(L − 49") ÷ 13**, which is about 2-5/16" for a 79" length. Put the first and last slats tight against the post faces (the end rails sit a little farther out, so the slats can't reach them past the posts).
 3. **Mark:** pencil both edges of every slat onto both 2x2s, then lift the slats off.
 4. **Glue the spacers:** crosscut ~26 spacers from the 1x2 to the gap length (the length runs along the 2x2, head to foot; the 1-1/2" width matches the 2x2, so there's no overhang), minus about 1/16" so the slats lift out easily if the wood swells. Glue one to the **bare** 2x2 between each pair of marks. Pin each one with **1 finish nail (1-1/4" to 1-1/2")** to hold it while the glue sets. No screws needed. Wipe up squeeze-out, and keep glue off the slat landing spots.
 5. **Felt:** once the glue is dry, stick 3-1/2" pieces of the 1/2" felt on every slat landing spot: both 2x2s and the center beam, 42 pieces in total (about 12-1/4 ft, so 3 rolls).
@@ -307,7 +308,7 @@ Sources: [Kreg Jig HD manual (placement)](https://www.manualsdir.com/manuals/776
 
 ## 5. Disassembly for Moving
 
-The frame is built to come apart without tools, apart from the leg if you use a Rockler one.
+The frame is built to come apart with just a driver for the 28 slat screws.
 
 | Order | Step |
 |---:|---|
@@ -317,7 +318,7 @@ The frame is built to come apart without tools, apart from the leg if you use a 
 | 4 | You're left with 5 large pieces (headboard, footboard, 2 side rails, beam) plus the slat bundle. |
 
 **Tips for moving:**
-- **Never glue across a knock-down joint.** Only glue the parts that stay together for good: the headboard panel, the footboard, and the 2x2s to the rails.
+- **Never glue across a knock-down joint.** Only glue the parts that stay together for good: the headboard, the footboard, the 2x2s and spacers on the rails, and the leg cleats.
 - **Leg blocks:** they aren't screwed to the beam, just captured by their cleats, so they stay tool-free.
 - **Headboard size:** it's roughly 63" wide x 53" tall, so measure your car or van before moving day.
 - **Slats:** bundle them with two ratchet straps or bungees.
@@ -415,6 +416,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0034 | 2026-11-25 | Consistency pass: center beam ~6'9" (diagram 2 matched); Step 2 rail height at the tall headboard posts; Step 3 order (frame, then slat panel) and stray lines moved back into the list; Step 9 measures between the posts; disassembly wording (no Rockler leg) |
 | 2026.11.0033 | 2026-11-25 | Temporary setup turned into "Shopping Trip 1" list (bed slat boards + temp runners) with what carries into the build; remaining build cost noted |
 | 2026.11.0032 | 2026-11-25 | Bed slat boards changed to 7 x 1x4x12 ($15.35) for cutting room; totals ~$412; added optional temporary floor setup (3 x 2x4 runners) |
 | 2026.11.0031 | 2026-11-25 | GRK #8 x 1-1/4" use note fixed: brackets and bed slat ends (spacers and headboard slats are glued + nailed) |
