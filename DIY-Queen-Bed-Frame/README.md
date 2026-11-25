@@ -57,7 +57,7 @@ Prices were checked on **Nov 15, 2026** (1x4x12 and finish nails: Nov 25) at **L
 |---:|---|---:|---:|
 | 1 | Kreg #8 x 2-1/2-in Zinc Pocket Hole Screws (50 ct) | $8.98 | $8.98 |
 | 1 | Kreg #8 x 1-1/4-in Zinc Pocket Hole Screws (100 ct) | $9.98 | $9.98 |
-| 1 | Metabo HPT 1-1/4-in 16-Gauge Straight Electro-Galvanized Finish Nails (1,000 ct) *(headboard slats to back supports, slat spacers to 2x2s; ~90 needed)* | $15.98 | $15.98 |
+| 1 | Metabo HPT 1-1/4-in 16-Gauge Straight Electro-Galvanized Finish Nails (1,000 ct) *(headboard slats to back supports, slat spacers to 2x2s; ~90 needed, plus ~46 for the temporary setup)* | $15.98 | $15.98 |
 | 1 | Titebond II Premium Wood Glue (16 oz) | $8.98 | $8.98 |
 | 1 | Minwax Wipe-On Poly, Clear (1 pint) *(or your finish of choice)* | $22.98 | $22.98 |
 | 3 | Scotch Easy Cut 1/2-in x 60-in Brown Felt Roll *(anti-squeak pads under the slats)* | $5.98 | $17.94 |
@@ -106,7 +106,9 @@ Lets you use the mattress before the frame is built: the 14 bed slats lie on 3 f
 - **Cut the slats now** to the final 59-7/8" (2 per board), so they're ready for the frame.
 - **Cut the runners** to about 79" so they don't stick out past the 80" mattress.
 - **Lay the runners flat** (more stable than on edge), running head to foot: one centered, and one about 3" in from each slat end.
-- **Space the slats** about 2-5/16" apart, the same as the frame, with no screws or felt.
+- **Space the slats** about 2-5/16" apart, the same as the frame, with no glue or felt.
+- **Nail them** with the 1-1/4" 16-gauge finish nails (from the build list): **2 per slat at the 4 corners** to keep it square, and **1 per slat at every other runner crossing** (about 46 nails). That puts about 1/2" into the runner, and nothing reaches the floor.
+- **When you build:** pull the slats off the runners (or snip the nails flush underneath). The small holes sit about 5" in from the slat ends, away from the 1" end screws, and are hidden under the mattress.
 - **When you build:** skip the 7 x 1x4x12 in the lumber list above (already bought). Everything else is still needed, about **$297 before tax** (~$315 with tax).
 
 Add Rockler shipping. Rockler shows free shipping on orders over $99 with code FREE99, and this order is under that.
@@ -419,6 +421,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0037 | 2026-11-25 | Temporary setup: slats finish-nailed to the runners (2 per corner slat, 1 elsewhere) and removal note; diagram note updated |
 | 2026.11.0036 | 2026-11-25 | Added 1-1/4" 16-gauge straight finish nails (Metabo HPT, $15.98) to the Lowe's list; totals ~$429 |
 | 2026.11.0035 | 2026-11-25 | Added a temporary floor setup diagram (top and end views) to Shopping Trip 1 |
 | 2026.11.0034 | 2026-11-25 | Consistency pass: center beam ~6'9" (diagram 2 matched); Step 2 rail height at the tall headboard posts; Step 3 order (frame, then slat panel) and stray lines moved back into the list; Step 9 measures between the posts; disassembly wording (no Rockler leg) |
