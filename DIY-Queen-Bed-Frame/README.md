@@ -65,7 +65,7 @@ Prices were checked on **Nov 15, 2026** at **Lowe's S. Bel Air** and **Home Depo
 
 | Qty | Item | Each | Total |
 |---:|---|---:|---:|
-| 1 | GRK R4 #8 x 1-1/4-in Star Drive Bugle Head Multi-Purpose (110 pk, Model 96080) *(bed rail brackets, slat spacers, headboard slats to back supports)* | $14.98 | $14.98 |
+| 1 | GRK R4 #8 x 1-1/4-in Star Drive Bugle Head Multi-Purpose (110 pk, Model 96080) *(bed rail brackets, and 1 per bed slat end into the 2x2s)* | $14.98 | $14.98 |
 | 1 | GRK Cabinet #10 x 2-1/2-in Star Drive Low Profile Washer Head (50 pk, Model 96070) *(2x2 slat supports to side rails)* | $11.31 | $11.31 |
 | | | **Home Depot subtotal** | **$26.29** |
 
@@ -397,6 +397,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0031 | 2026-11-25 | GRK #8 x 1-1/4" use note fixed: brackets and bed slat ends (spacers and headboard slats are glued + nailed) |
 | 2026.11.0030 | 2026-11-25 | Supply list: 1x4x10 note now spells out boards vs. pieces (10 headboard slats, 3 back supports, 14 bed slats from 13 boards) |
 | 2026.11.0029 | 2026-11-19 | Frame lengthened 1" for mattress room: side rails 6'7", 2x2s 6'4", ~86" overall; spacing and diagrams updated |
 | 2026.11.0028 | 2026-11-16 | Priced the 1x2 spacer board ($7.98, RELIABILT clear radiata pine); totals updated |
