@@ -93,6 +93,8 @@ Prices were checked on **Nov 15, 2026** (1x4x12: Nov 25) at **Lowe's S. Bel Air*
 
 Lets you use the mattress before the frame is built: the 14 bed slats lie on 3 flat 2x4 runners on the floor.
 
+![Temporary floor setup](images/T1-temporary-floor-setup.jpg)
+
 | Qty | Item | Use | Each | Total |
 |---:|---|---|---:|---:|
 | 7 | RELIABILT 1-in x 4-in x 12-ft #2 & Better Whitewood Board | **Kept for the finished build:** 14 bed slats | $15.35 | $107.45 |
@@ -416,6 +418,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0035 | 2026-11-25 | Added a temporary floor setup diagram (top and end views) to Shopping Trip 1 |
 | 2026.11.0034 | 2026-11-25 | Consistency pass: center beam ~6'9" (diagram 2 matched); Step 2 rail height at the tall headboard posts; Step 3 order (frame, then slat panel) and stray lines moved back into the list; Step 9 measures between the posts; disassembly wording (no Rockler leg) |
 | 2026.11.0033 | 2026-11-25 | Temporary setup turned into "Shopping Trip 1" list (bed slat boards + temp runners) with what carries into the build; remaining build cost noted |
 | 2026.11.0032 | 2026-11-25 | Bed slat boards changed to 7 x 1x4x12 ($15.35) for cutting room; totals ~$412; added optional temporary floor setup (3 x 2x4 runners) |
