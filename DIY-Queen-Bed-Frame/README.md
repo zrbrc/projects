@@ -36,7 +36,7 @@
 
 ## 1. Supply List & Pricing
 
-Prices were checked on **Nov 15, 2026** at **Lowe's S. Bel Air** and **Home Depot Edgewood** (GRK screws). Rockler is used for the bed hardware. Tools and sandpaper are not included (already on hand).
+Prices were checked on **Nov 15, 2026** (1x4x12: Nov 25) at **Lowe's S. Bel Air** and **Home Depot Edgewood** (GRK screws). Rockler is used for the bed hardware. Tools and sandpaper are not included (already on hand).
 
 ### Lumber — Lowe's
 
@@ -45,10 +45,11 @@ Prices were checked on **Nov 15, 2026** at **Lowe's S. Bel Air** and **Home Depo
 | 2 | 4-in x 4-in x 8-ft #2 Premium Douglas Fir (green, untreated) | $13.12 | $26.24 |
 | 2 | 2-in x 6-in x 12-ft #2 Fir Kiln-Dried | $15.13 | $30.26 |
 | 2 | 2-in x 4-in x 96-in Kiln-Dried #2 Premium *(headboard top + center beam)* | $4.75 | $9.50 |
-| 13 | RELIABILT 1-in x 4-in x 10-ft #2 & Better Whitewood Board *(13 boards, 2 cuts each: 5 boards → 10 headboard slats, 1 board → 3 back supports, 7 boards → 14 bed slats)* | $12.84 | $166.92 |
+| 6 | RELIABILT 1-in x 4-in x 10-ft #2 & Better Whitewood Board *(2 cuts each: 5 boards → 10 headboard slats, 1 board → 3 back supports)* | $12.84 | $77.04 |
+| 7 | RELIABILT 1-in x 4-in x 12-ft #2 & Better Whitewood Board *(2 cuts each → 14 bed slats; 12' leaves room for kerfs and squaring the ends)* | $15.35 | $107.45 |
 | 1 | RELIABILT 1-in x 2-in x 8-ft Clear S4S Radiata Pine *(slat spacers, same 1-1/2" width as the 2x2; Aisle 49, Bay 5)* | $7.98 | $7.98 |
 | 2 | 2-in x 2-in x 8-ft Whitewood Furring Strip (Item #4513) | $2.98 | $5.96 |
-| | | **Lumber subtotal** | **$246.86** |
+| | | **Lumber subtotal** | **$264.43** |
 
 ### Pocket Screws, Glue & Finish — Lowe's
 
@@ -81,12 +82,26 @@ Prices were checked on **Nov 15, 2026** at **Lowe's S. Bel Air** and **Home Depo
 
 | | Amount |
 |---|---:|
-| Lowe's subtotal | $315.72 |
+| Lowe's subtotal | $333.29 |
 | Home Depot subtotal | $26.29 |
 | Rockler subtotal | $28.98 |
-| **Subtotal** | **$370.99** |
-| MD sales tax (6%) | $22.26 |
-| **Estimated total** | **~$393** |
+| **Subtotal** | **$388.56** |
+| MD sales tax (6%) | $23.31 |
+| **Estimated total** | **~$412** |
+
+### Temporary Floor Setup — Lowe's (optional, not used in the build)
+
+To use the mattress before the frame is built, lay the 14 bed slats on 3 flat 2x4 runners on the floor.
+
+| Qty | Item | Each | Total |
+|---:|---|---:|---:|
+| 3 | 2-in x 4-in x 96-in Kiln-Dried #2 Premium *(runners, cut to ~79")* | $4.75 | $14.25 |
+| | | **With 6% tax** | **~$15** |
+
+- **Cut** each 2x4 to about 79" so it doesn't stick out past the 80" mattress.
+- **Lay them flat** (more stable than on edge), running head to foot: one centered, and one about 3" in from each slat end.
+- **Space the slats** about 2-5/16" apart, the same as the frame, with no screws or felt.
+- **Store the slats flat** with weight on them until the build so they don't bow.
 
 Add Rockler shipping. Rockler shows free shipping on orders over $99 with code FREE99, and this order is under that.
 
@@ -133,7 +148,7 @@ What actually changes how long this lasts and how it looks is **picking boards a
 | 1x4x10 (boards 1–5) | 2 @ 4'8" each → 10 headboard slats | ~8" each |
 | 1x4x10 (board 6) | 3 @ 2'11-1/2" (headboard back supports) | ~1'1" |
 | 2x2x8 (x2) | 1 @ 6'4" each (slat supports) | ~1'8" each |
-| 1x4x10 (boards 7–13) | 2 @ 59-7/8" each → 14 bed slats | — |
+| 1x4x12 (x7) | 2 @ 59-7/8" each → 14 bed slats | ~2' each |
 | 1x2x8 | ~26 spacers, cut to the gap between slats (~2-5/16"; see Step 9) | ~3' |
 
 ### Finished part summary
@@ -397,6 +412,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0032 | 2026-11-25 | Bed slat boards changed to 7 x 1x4x12 ($15.35) for cutting room; totals ~$412; added optional temporary floor setup (3 x 2x4 runners) |
 | 2026.11.0031 | 2026-11-25 | GRK #8 x 1-1/4" use note fixed: brackets and bed slat ends (spacers and headboard slats are glued + nailed) |
 | 2026.11.0030 | 2026-11-25 | Supply list: 1x4x10 note now spells out boards vs. pieces (10 headboard slats, 3 back supports, 14 bed slats from 13 boards) |
 | 2026.11.0029 | 2026-11-19 | Frame lengthened 1" for mattress room: side rails 6'7", 2x2s 6'4", ~86" overall; spacing and diagrams updated |
