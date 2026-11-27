@@ -331,6 +331,23 @@ The frame is built to come apart with just a driver for the 28 slat screws.
 ---
 
 ## 6. Finish Options
+
+### Edge treatment (before assembly)
+Round over the edges with a handheld router and a bearing-guided bit **before assembly and before finish**. It's much harder once the parts are joined.
+
+| Where | Suggestion |
+|---|---|
+| Bed slats, 2 long **top** edges | 1/8" roundover (or a few passes with 120-grit). Saves wear on the mattress where it flexes into the gaps. Do it before the temporary floor setup |
+| Posts (especially the headboard post tops), 2x4 top, rail top edges | 1/4" roundover. These get bumped and sat on |
+| Rail ends, panel-to-post lines, bracket faces | Leave square. Rounding where two parts meet leaves a visible V and gap |
+| Headboard slats, front long edges | Optional 1/8" chamfer or roundover for a clean shadow line between slats |
+
+**Router direction:** move the router **counterclockwise around the board**. On the edge facing you, that's **left to right**. The bit spins clockwise and cuts into the uncut wood ahead, so you push against light resistance. If the router pulls itself along, you're going the wrong way (a climb cut).
+- **Slats:** clamp 3–4 side by side, flat on the bench, so the router base has a wide surface. Rout the outside slat's edge, then rotate.
+- **Tear-out at the exit end:** take a short, light climb cut back from the end first (about 1"), then make the normal pass. Or just sand the corner.
+- Test on scrap first.
+
+### Finish
 - Wipe-on poly (priced above)
 - A beeswax and olive oil furniture wax (the original author's favorite)
 - Light gold stain, or a whitewash
@@ -421,6 +438,7 @@ A cushioned panel that hangs on the front of the headboard slats. It lifts off f
 
 | Version | Date | What changed |
 |---|---|---|
+| 2026.11.0038 | 2026-11-27 | Finish Options: edge treatment table (roundovers by part) and router direction (counterclockwise around the board) |
 | 2026.11.0037 | 2026-11-25 | Temporary setup: slats finish-nailed to the runners (2 per corner slat, 1 elsewhere) and removal note; diagram note updated |
 | 2026.11.0036 | 2026-11-25 | Added 1-1/4" 16-gauge straight finish nails (Metabo HPT, $15.98) to the Lowe's list; totals ~$429 |
 | 2026.11.0035 | 2026-11-25 | Added a temporary floor setup diagram (top and end views) to Shopping Trip 1 |
